@@ -21,7 +21,10 @@ public class ModItems {
     public static final RegistryObject<Item> SPELL_GEMSTONE = ITEMS.register("spell_gemstone",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SORCRAFT_TAB)));
 
-    public static final RegistryObject<Item> MAGICAL_EYE = ITEMS.register("magical_eye",
+    public static final RegistryObject<Item> MAGIC_EYE = ITEMS.register("magic_eye",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SORCRAFT_TAB)));
+
+    public static final RegistryObject<Item> SORCERERS_EMBLEM = ITEMS.register("sorcerers_emblem",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.SORCRAFT_TAB)));
 
     public static void register(IEventBus event_bus) {
