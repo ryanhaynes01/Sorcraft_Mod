@@ -1,5 +1,8 @@
 {
-   "item.sorcraftmod.spell_stone": "Spell Stone",
+  "item.sorcraftmod.spell_stone": "Spell Stone",
+  "item.sorcraftmod.spell_crystal": "Spell Crystal",
+  "item.sorcraftmod.spell_gemstone": "Spell Gemstone",
+  "item.sorcraftmod.magical_eye": "Magical Eye",
 
   "itemGroup.sorcraftmod_tab": "Sorcraft"
 }

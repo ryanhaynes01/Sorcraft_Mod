@@ -30,5 +30,4 @@ public class SorcraftMod {
     private void setup(final FMLCommonSetupEvent event) {
         LOGGER.info("Hello from PreInit for Sorcraft!");
     }
-
 }
